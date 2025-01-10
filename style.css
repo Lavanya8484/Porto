@@ -121,9 +121,9 @@ body {
 
 .partner-form {
   height: 550px;
-  width: 400px;
+  width: 350px;
   border: 1px solid white;
-  margin-left: 70px;
+  margin-left: 40px;
   position: relative;
   padding: 20px;
   border-radius: 30px;
@@ -147,6 +147,7 @@ input:focus {
   text-align: center;
   margin-left: 100px;
 }
+
 .para-2 {
   height: 100px;
   width: 700px;
@@ -173,26 +174,26 @@ input:focus {
 }
 .name-div {
   margin-top: 30px;
-  margin-left: 40px;
+  margin-left: 5px;
 }
 .name-inp {
   height: 30px;
   width: 350px;
 }
 .email-div {
-  margin-left: 40px;
+  margin-left: 5px;
 }
 .phone-div {
-  margin-left: 40px;
+  margin-left: 5px;
 }
 .msg-div {
-  margin-left: 40px;
+  margin-left: 5px;
 }
 .mgs {
   height: 250px;
 }
 .btn-2 {
-  margin-left: 40px;
+  margin-left: 5px;
   margin-top: 10px;
 }
 .cards-section {
@@ -203,14 +204,15 @@ input:focus {
 .card-1 {
   justify-content: space-evenly;
   height: 300px;
-  width: 320px;
+  width: 310px;
   border: 2px solid rgb(88, 88, 175);
-  margin-left: 120px;
+  margin-left: 85px;
 }
 .card-img {
   margin-left: 100px;
   margin-top: -50px;
 }
+
 .card-text {
   font-size: 25px;
   margin-left: 80px;
@@ -259,7 +261,7 @@ input:focus {
   flex-direction: row;
 }
 .partner-form-2 {
-  margin-left: 950px;
+  margin-left: 800px;
   margin-top: -200px;
 }
 input {
