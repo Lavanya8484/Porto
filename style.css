@@ -111,6 +111,9 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
+.partner-content {
+  margin-left: -70px;
+}
 
 .partner-main {
   margin-top: 70px;
@@ -195,22 +198,22 @@ input:focus {
 .cards-section {
   margin-top: 60px;
   display: flex;
-  margin-left: -100px;
 }
+
 .card-1 {
   justify-content: space-evenly;
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 320px;
   border: 2px solid rgb(88, 88, 175);
-  margin-left: 140px;
+  margin-left: 120px;
 }
 .card-img {
-  margin-left: 125px;
+  margin-left: 100px;
   margin-top: -50px;
 }
 .card-text {
   font-size: 25px;
-  margin-left: 50px;
+  margin-left: 80px;
   font-weight: 500;
 }
 .oo {
@@ -302,7 +305,6 @@ input {
   gap: 20px;
 }
 .card-text {
-  margin-left: 5px;
   font-size: 23px;
 }
 .blog-content {
